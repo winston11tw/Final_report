@@ -75,21 +75,21 @@ At the AI application level, Baidu leveraged the general trend of China's intell
 Since the real Chinese market share is based in rural areas, second-tier cities, and third-tier cities, these areas basically use Chinese mobile phone brands to access the Internet, and most of them are bound to Huawei or QQ browsers, and they tend to use baidu for Internet Search. These people are accustomed to using Baidu, not so easy to change their habits, so we believe that after Google returns to the Chinese market, the competitiveness of Baidu should be the same.  
 
 6 - References  
-Jia, Kai, Kenney, Martin, Mattila, Juri & Seppälä, Timo (26.2.2018). “The Application of Artificial Intelligence at Chinese Digital Platform Giants: Baidu, Alibaba and Tencent”.
-https://technews.tw/2018/08/13/why-chinese-dont-like-baidu/
-https://technews.tw/2018/08/13/why-chinese-dont-like-baidu/
-https://www.investopedia.com/articles/investing/051215/baidu-vs-google-how-are-they-different.asp
-https://www.jianshu.com/p/3e9c7153bbce
-https://lusongsong.com/info/post/90.html
-https://www.dw.com/zh/%E6%9C%89%E4%BA%86%E8%B0%B7%E6%AD%8C%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%94%A8%E7%99%BE%E5%BA%A6%E5%90%97/a-44995265
-https://www.thenewslens.com/article/101639
-https://technews.tw/2018/08/13/why-chinese-dont-like-baidu/
-https://www.investopedia.com/articles/investing/051215/baidu-vs-google-how-are-they-different.asp
-https://www.jianshu.com/p/3e9c7153bbce
-https://lusongsong.com/info/post/90.html
-http://www.199it.com/archives/1133606.html
-https://www.thenewslens.com/article/101639
-https://zhuanlan.zhihu.com/p/114985039
-https://www.163.com/dy/article/G74QGADS05523VDU.html
-https://adchina.io/2020/09/09/wechat-baidu-weibo-tiktok-douyin-linkedin-bytedance-stats/
-https://www.broadbandsearch.net/blog/google-statistics-facts
+Jia, Kai, Kenney, Martin, Mattila, Juri & Seppälä, Timo (26.2.2018). “The Application of Artificial Intelligence at Chinese Digital Platform Giants: Baidu, Alibaba and Tencent”.  
+https://technews.tw/2018/08/13/why-chinese-dont-like-baidu/  
+https://technews.tw/2018/08/13/why-chinese-dont-like-baidu/  
+https://www.investopedia.com/articles/investing/051215/baidu-vs-google-how-are-they-different.asp  
+https://www.jianshu.com/p/3e9c7153bbce  
+https://lusongsong.com/info/post/90.html  
+https://www.dw.com/zh/%E6%9C%89%E4%BA%86%E8%B0%B7%E6%AD%8C%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%94%A8%E7%99%BE%E5%BA%A6%E5%90%97/a-44995265  
+https://www.thenewslens.com/article/101639  
+https://technews.tw/2018/08/13/why-chinese-dont-like-baidu/  
+https://www.investopedia.com/articles/investing/051215/baidu-vs-google-how-are-they-different.asp  
+https://www.jianshu.com/p/3e9c7153bbce  
+https://lusongsong.com/info/post/90.html  
+http://www.199it.com/archives/1133606.html  
+https://www.thenewslens.com/article/101639  
+https://zhuanlan.zhihu.com/p/114985039  
+https://www.163.com/dy/article/G74QGADS05523VDU.html  
+https://adchina.io/2020/09/09/wechat-baidu-weibo-tiktok-douyin-linkedin-bytedance-stats/  
+https://www.broadbandsearch.net/blog/google-statistics-facts  
