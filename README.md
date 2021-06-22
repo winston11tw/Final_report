@@ -46,8 +46,7 @@ In the early days, when people discovered that backlinks are related to page ran
 Rank Brain:  
 To put it simply, Google’s search results are no longer based solely on the matching of web keywords and user query terms, but provide the most appropriate online information based on the user’s search intent. RankBrain has introduced an artificial intelligence system to more accurately determine the user's search intent, analyze the quality of the website's content, and optimize search results.  
 
-Maeket share:
-Microsoft's Edge uses the same engine as Google, based on Chromium, and consumes less memory capacity compared to chrome. It has already squeezed Firefox into second place. Firefox is the default browser of the Linux system. What is more special is that the current market share of Apple computers can be roughly estimated from the market share of the browser on the PC side.  
+About browsers, Microsoft's Edge uses the same engine as Google, based on Chromium, and consumes less memory capacity compared to chrome. It has already squeezed Firefox into second place. Firefox is the default browser of the Linux system. What is more special is that the current market share of Apple computers can be roughly estimated from the market share of the browser on the PC side.  
 
 On the mobile side, Android may have two default browsers: Samsung’s Samsung Internet and Chrome. Samsung Internet was originally a web browser pre-installed on Galaxy phones and tablets. Later, Samsung opened it to all Android devices.  
 
@@ -55,8 +54,7 @@ Samsung Internet is also based on Chrome, but has a fully customized interface, 
 
 Baidu browser, currently only the mobile version is still being updated, and the PC terminal has stopped updating. Baidu Browser integrates many of Baidu's own application services, and is also trying to build its own user ecology.  
 For Apple phones, all third-party browsers need to use the Safari rendering engine, and Google allows any web browser engine to be sent to Play for installation on Android phones.  
-
-Advertising business model:  
+ 
 Baidu and Google are also different in click ads. Baidu has Baidu Promotion and Google has Google Ads. The charging rules of the two are similar. Both are based on the bid and the quality of the advertisement to determine the click charge. However, compared to Baidu, Google pays more attention to the quality of advertising, while Baidu pays more attention to bidding.  
 Google: Having a higher ad quality score can lower the price of ad clicks and save costs for enterprises. In addition, high-quality advertising will also win more potential customers for the company.  
 Baidu: it is more inclined to bid, Baidu's automatic bidding system is more inclined to bid higher ads to get higher rankings.  
@@ -78,3 +76,20 @@ Since the real Chinese market share is based in rural areas, second-tier cities,
 
 6 - References  
 Jia, Kai, Kenney, Martin, Mattila, Juri & Seppälä, Timo (26.2.2018). “The Application of Artificial Intelligence at Chinese Digital Platform Giants: Baidu, Alibaba and Tencent”.
+https://technews.tw/2018/08/13/why-chinese-dont-like-baidu/
+https://technews.tw/2018/08/13/why-chinese-dont-like-baidu/
+https://www.investopedia.com/articles/investing/051215/baidu-vs-google-how-are-they-different.asp
+https://www.jianshu.com/p/3e9c7153bbce
+https://lusongsong.com/info/post/90.html
+https://www.dw.com/zh/%E6%9C%89%E4%BA%86%E8%B0%B7%E6%AD%8C%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%94%A8%E7%99%BE%E5%BA%A6%E5%90%97/a-44995265
+https://www.thenewslens.com/article/101639
+https://technews.tw/2018/08/13/why-chinese-dont-like-baidu/
+https://www.investopedia.com/articles/investing/051215/baidu-vs-google-how-are-they-different.asp
+https://www.jianshu.com/p/3e9c7153bbce
+https://lusongsong.com/info/post/90.html
+http://www.199it.com/archives/1133606.html
+https://www.thenewslens.com/article/101639
+https://zhuanlan.zhihu.com/p/114985039
+https://www.163.com/dy/article/G74QGADS05523VDU.html
+https://adchina.io/2020/09/09/wechat-baidu-weibo-tiktok-douyin-linkedin-bytedance-stats/
+https://www.broadbandsearch.net/blog/google-statistics-facts
